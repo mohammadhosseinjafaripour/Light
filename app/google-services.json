@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "904616203687",
+    "firebase_url": "https://light-260021.firebaseio.com",
+    "project_id": "light-260021",
+    "storage_bucket": "light-260021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904616203687:android:c4d020c4b0796d4cded282",
+        "android_client_info": {
+          "package_name": "com.jfp.light"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904616203687-1o5odbj35u4n1f7jvb21vkr0nvmaribm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jfp.light",
+            "certificate_hash": "441e5b8ac7dfdc2014364733cb95b3a34c774e38"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmyYx3hbmN9C8E2WRna4AlHA5QayXPnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904616203687-0dqem3e7ki98spjfgr1jsm6h8njemo27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
